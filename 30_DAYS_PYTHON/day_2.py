@@ -1,7 +1,3 @@
-import math
-#"Day 2: 30 Days of python programming"
-
-
 nombre = "Andrea"
 apellido = "Guerra"
 nombre_completo = nombre + apellido
